@@ -1,0 +1,12 @@
+[
+    {
+        "name": "cookie",
+        "price": 20,
+        "last_detection": 1745166210
+    },
+    {
+        "name": "instant noodle",
+        "price": 25,
+        "last_detection": 1745166207
+    }
+]
